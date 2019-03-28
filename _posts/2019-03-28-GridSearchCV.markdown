@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Gridsearching for an answer."
 date:   2019-03-28 12:18:22 -0700
-categories: jekyll update
+categories: Data Science
 ---
 
 
